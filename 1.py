@@ -1,3 +1,4 @@
 print = ("Udało Ci się")
 
-#test git add . po zmianie
+#test git add . git push po zmianie
+#test nadpisanie commita bo siara
