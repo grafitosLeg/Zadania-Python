@@ -12,4 +12,4 @@ Project is created with:
 * Python 3.8.2
 
 ## Sources
-This tasks are inspired by Konrad Janaciak with Komputer Świat  „Python- Kurs programowania na prostych przykładach”
+These tasks are inspired by Konrad Janaciak with Komputer Świat  „Python- Kurs programowania na prostych przykładach”
