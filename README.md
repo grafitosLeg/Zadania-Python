@@ -9,7 +9,7 @@ This project covers few task with Python  - done by father Rafał and Dawid The 
 	
 ## Technologies
 Project is created with:
-* Python 3.8.2
+* Python 3.7.3
 
 ## Sources
 These tasks are inspired by Konrad Janaciak with Komputer Świat  „Python- Kurs programowania na prostych przykładach”
